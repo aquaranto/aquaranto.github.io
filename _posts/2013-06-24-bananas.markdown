@@ -1,0 +1,11 @@
+---
+layout: post
+---
+
+## My first post
+
+Yada **yada** yada...
+
+![:D](/images/291929_2083467929873_1340364228_32247635_5526220_n.jpg)
+
+_Awesome!_
