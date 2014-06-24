@@ -1,4 +1,5 @@
 #HIREMEv2.0
 
 Hi there! I am Amanda Quaranto: a Manufacturing Engineer turned Application Support Engineer.
-![Hey!](http://howstuffworks.files.wordpress.com/2011/08/panda4.jpg =50x)
+
+![Hey!](http://howstuffworks.files.wordpress.com/2011/08/panda4.jpg)
