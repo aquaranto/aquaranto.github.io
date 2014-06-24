@@ -19,6 +19,6 @@ Hi! I'm Amanda!
 #####Would you like to HIREME? Let's talk!
 * Email: amanda (at) quaran.to
 * Skype: aquaranto
-* [Twitter](https://twitter.com/aquaranto)
-* [Linkedin](www.linkedin.com/in/amandaquaranto/)
+* Twitter: [@aquaranto](https://twitter.com/aquaranto)
+* Linkedin: [amandaquaranto](www.linkedin.com/in/amandaquaranto/)
 

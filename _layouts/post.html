@@ -7,24 +7,15 @@ archive: false
 <main class="content" role="main">
 
     <article class="post">
-        <!--<header class="post-header">
-            <a id="blog-logo" href="{{site.baseurl}}">
-                {% if site.logo %}
-                    <img src="{{site.logo}}" alt="{{ site.name }}" />
-                {% else %}
-                    <span class="blog-title">{{ site.name }}</span>
-                {%endif%} 
-            </a>
-        </header>-->
-        
         <span class="post-meta">
-        	<time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
+        	<a href="/index.html">Back </a> |
+            <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
         	{% if page.categories %}
         		on
-	        	{% for category in page.categories %}
-	        	    {{category}}
-	        	{% endfor %}
-	        {% endif %}
+            	{% for category in page.categories %}
+            	    {{category}}
+            	{% endfor %}
+            {% endif %}
        	</span>
 
         <h1 class="post-title">{{ page.title }}</h1>
