@@ -1,4 +1,5 @@
-name: Your New Jekyll Site
+<<<<<<< HEAD
+name: HIREMEv2.0
 description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
@@ -10,3 +11,4 @@ paginate: 15
 # Details for the RSS feed generator
 url:            'blog url'
 author:         'Your Name'
+
