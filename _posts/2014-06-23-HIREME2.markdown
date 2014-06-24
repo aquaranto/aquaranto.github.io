@@ -1,3 +1,8 @@
+---
+layout: default
+title: HIREMEv2.0
+---
+
 #HIREMEv2.0
 
 Hi there! I am Amanda Quaranto: a Manufacturing Engineer turned Application Support Engineer.
@@ -74,11 +79,11 @@ I am also attending as many conferences and ruby meetups as possible. I love mee
 
 ###About me 
 #####(the fun, often nerdy, stuff)
-* Board games - Carcassonne, 7Wonders, King of Tokyo, Munchkin
+* Board games - 
 
-* Cooking - I am currently leveling up my [keto-friendly](http://www.reddit.com/help/faqs/keto) cooking skills.
+* Cooking - I am currently leveling up my chef skills with the help of [Blue Apron](http://blueapron.com)
 
-* Crafting - Everything and anything. Yes, [really](http://distilleryimage4.s3.amazonaws.com/2df294264af211e1abb01231381b65e3_7.jpg).
+* Crafting - Everything and anything. 
 
 * Reading - I just finished “Ready Player One” by Ernest Cline. A very good read that is made for every nerd.
 
