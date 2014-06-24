@@ -1,6 +1,6 @@
 name: HIREMEv2.0
-description: I'm a former engineer  
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+description: 
+meta_description: ""
 
 markdown: redcarpet
 pygments: true

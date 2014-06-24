@@ -16,6 +16,18 @@ archive: false
             	    {{category}}
             	{% endfor %}
             {% endif %}
+
+            <form >
+                A test of stripe integration: 
+                <script
+                    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                    data-key="pk_test_REiRXJkBrkRnp8Nn7YdHN7cb" 
+                    data-amount="0000"
+                    data-name="HIREMEv2.0"
+                    data-description="Blog Post : $0.00"
+                    data-image="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/10285142_10100871048204455_9142044647718762879_o.jpg" style="height:80%;">
+                  </script>
+            </form>
        	</span>
 
         <h1 class="post-title">{{ page.title }}</h1>
