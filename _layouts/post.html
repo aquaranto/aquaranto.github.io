@@ -7,7 +7,7 @@ archive: false
 <main class="content" role="main">
 
     <article class="post">
-        <header class="post-header">
+        <!--<header class="post-header">
             <a id="blog-logo" href="{{site.baseurl}}">
                 {% if site.logo %}
                     <img src="{{site.logo}}" alt="{{ site.name }}" />
@@ -15,7 +15,7 @@ archive: false
                     <span class="blog-title">{{ site.name }}</span>
                 {%endif%} 
             </a>
-        </header>
+        </header>-->
         
         <span class="post-meta">
         	<time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
@@ -45,22 +45,18 @@ archive: false
         {% endif %}
 
         <footer class="post-footer">
-        	<!-- If we want to display author's name and bio -->
-            {% if site.author %}
                 <section class="author">
-                	<header> <a href="{{ site.baseurl }}"> <img class="profile" src="/assets/images/profile.png" alt="Author's profile picture"></a></header>
+                	<header> <a href="{{ site.baseurl }}"> <img class="profile" src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/10285142_10100871048204455_9142044647718762879_o.jpg" alt="Author's profile picture"></a></header>
                 	<article>
                 		<!-- Author Name -->
                     	<h4> {{ site.author }} </h4>
                     	<!-- Author Bio -->
                     	<p> 
-                    		Here goes the author description. You might want to place some links too in here
+                    		Engineer turned novice programmer.
                     	</p>
                     </article>
                 </section>                
-            {% endif %}
-
-            <section class="share">
+               <section class="share">
                 <h4>Share this post</h4>
                 <a class="icon-twitter" href="http://twitter.com/share?text={{page.title}}&amp;url={{site.url}}{{ page.url }}"
                     onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
@@ -75,25 +71,6 @@ archive: false
                     <span class="hidden">Google+</span>
                 </a>
             </section>
-            
-            {% if page.disqus %}
-            <section class="disqus">
-            	<div id="disqus_thread"></div>
-            	<script type="text/javascript">
-
-            	    var disqus_shortname = ''; 
-            		var disqus_developer = 0; // developer mode is on
-            	    (function() {
-            	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            	        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-            	        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-            	    })();
-            	</script>
-            	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-            	<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-            </section>
-            {% endif %}
-        	
         </footer>
 
     </article>

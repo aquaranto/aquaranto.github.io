@@ -1,5 +1,5 @@
 name: HIREMEv2.0
-description: Blogging about stuffs
+description: I'm a former engineer  
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: redcarpet
@@ -8,6 +8,6 @@ logo: false
 paginate: 15
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'http://aquaranto.github.io/'
+author:         'Amanda Quaranto'
 

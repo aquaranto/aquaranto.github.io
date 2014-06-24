@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: post
 title: HIREMEv2.0
 ---
-
-#HIREMEv2.0
 
 Hi there! I am Amanda Quaranto: a Manufacturing Engineer turned Application Support Engineer.
 
@@ -58,13 +56,16 @@ I am also attending as many conferences and ruby meetups as possible. I love mee
 
 -
 
-###Work experience
+###Relevant Work experience
+
+* Deployment Engineer/ PANDA at Engine Yard remotely in Buffalo, NY June 2013 - present
+* Jr. Rails Developer at Academic Software Plus in Buffalo, NY Jan 2013 to June 2013
 * Intern at Academic Software Plus in Buffalo, NY Oct 2012 to Jan 2013
-* Jr. Rails Developer at Academic Software Plus in Buffalo, NY Jan 2013 to present
+
 	
 ###Current participation in the developer community
 
-* Boston.rb and WNY Ruby Users Meetups
+* WNY Ruby Users Meetups
 
 * Giving talks locally and at conferences [MagicRuby Oct 2012](http://magic-ruby.com/)
 
@@ -77,17 +78,8 @@ I am also attending as many conferences and ruby meetups as possible. I love mee
 * Work professionally as a programmer within 2 years
 * Commit to an open source project
 
-###About me 
-#####(the fun, often nerdy, stuff)
-* Board games - 
+Visit the [*about me*](http://aquaranto.github.io/about.html) section to learn more about me and my hobbies!
 
-* Cooking - I am currently leveling up my chef skills with the help of [Blue Apron](http://blueapron.com)
-
-* Crafting - Everything and anything. 
-
-* Reading - I just finished “Ready Player One” by Ernest Cline. A very good read that is made for every nerd.
-
--
 
 Thank you for reading and for your consideration. I look forward to hearing from you.
 
