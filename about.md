@@ -7,6 +7,12 @@ Hi! I'm Amanda!
 
 ![Me](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/10285142_10100871048204455_9142044647718762879_o.jpg)
 
+#####Would you like to HIREME? Let's talk!
+* Email: amanda (at) quaran.to
+* Skype: aquaranto
+* Twitter: [@aquaranto](https://twitter.com/aquaranto)
+* Linkedin: [amandaquaranto](www.linkedin.com/in/amandaquaranto/)
+
 #####Now for the fun, often nerdy, stuff
 * Board games - My favorites include [Seasons](http://boardgamegeek.com/boardgame/108745/seasons) and [7 Wonders](http://boardgamegeek.com/boardgame/68448/7-wonders).
 
@@ -16,9 +22,5 @@ Hi! I'm Amanda!
 
 * Reading - I always recommend “Ready Player One” by Ernest Cline. A very good read that is made for every nerd.
 
-#####Would you like to HIREME? Let's talk!
-* Email: amanda (at) quaran.to
-* Skype: aquaranto
-* Twitter: [@aquaranto](https://twitter.com/aquaranto)
-* Linkedin: [amandaquaranto](www.linkedin.com/in/amandaquaranto/)
+
 
