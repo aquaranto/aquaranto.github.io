@@ -9,7 +9,12 @@ Hi there! I am Amanda Quaranto: a Manufacturing Engineer turned Application Supp
 
 ###Before we begin...
 
-I thought I'd try my hand at integrating the Stripe checkout form for myself. Feel free to try the result: <br /><form action="http://young-ravine-2763.herokuapp.com/charge" method="post" style="text-align:center">
+I thought I'd try my hand at integrating the Stripe checkout form for myself. Feel free to try the result using the following test card number:
+
+	4242 4242 4242 4242
+
+
+<br /><form action="http://young-ravine-2763.herokuapp.com/charge" method="post" style="text-align:center">
     <script
         src="https://checkout.stripe.com/checkout.js" class="stripe-button"
         data-key="pk_test_REiRXJkBrkRnp8Nn7YdHN7cb" 
