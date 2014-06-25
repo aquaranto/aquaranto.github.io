@@ -33,7 +33,19 @@ In November 2011, I left my manufacturing engineering position in Boston, MA and
 * teaching and getting others interested and involved  
 * time and project management
 
-After several months of teaching myself to program, I started work as a junior developer. I appreciated how it utilized many of the things I enjoy including problem solving and constant learning. But, I found that I was still missing the part of my previous career that I loved most, working with and helping other people.
+After several months of teaching myself to program, I started work as a junior developer. I appreciated how it utilized many of the things I enjoy including problem solving and constant learning. But, I found that I was still missing the part of my previous career that I loved most, working with and helping other people. I found my passion in Application Engineering and Support.
+
+###Relevant Work experience
+
+* Deployment Engineer/ PANDA at Engine Yard remotely from Buffalo, NY June 2013 - present
+* Jr. Rails Developer at Academic Software Plus in Buffalo, NY Jan 2013 to June 2013
+* Intern at Academic Software Plus in Buffalo, NY Oct 2012 to Jan 2013
+
+###Current participation in the developer community
+
+* Lead organizer for NickelCityRuby '13,'14
+* WNYRuby and OpenHack Meetups
+* Attending Conferences - RailsConf '12,'13,'14, SteelCityRuby '12,'14, Codemash '12,13, MagicRuby '12
 
 ###So, why am I a good fit?
 ####I am...
@@ -71,23 +83,6 @@ I also organize the local [knit and crochet](www.meetup.com/Buffalo-Knit-and-Cro
 <!-- 
 I find that I am constantly learning. I always try to surround myself with intellegent people
  -->
-
-###Relevant Work experience
-
-* Deployment Engineer/ PANDA at Engine Yard remotely in Buffalo, NY June 2013 - present
-* Jr. Rails Developer at Academic Software Plus in Buffalo, NY Jan 2013 to June 2013
-* Intern at Academic Software Plus in Buffalo, NY Oct 2012 to Jan 2013
-
-
-###Current participation in the developer community
-
-* Lead organizer for NickelCityRuby '13,'14
-* WNYRuby and OpenHack Meetups
-* Attending Conferences - RailsConf '12,'13,'14, SteelCityRuby '12,'14, Codemash '12,13, MagicRuby '12
-
-
-###Professional Goals
-<!-- * Improve D3/Javascript skills and  -->
 
 ######Visit the [this page](http://aquaranto.github.io/about.html) to learn more about me and my hobbies!
 
