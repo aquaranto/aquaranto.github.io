@@ -51,9 +51,7 @@ I also organize the local [knit and crochet](www.meetup.com/Buffalo-Knit-and-Cro
 * **a student**
 <!-- 
 I find that I am constantly learning. I always try to surround myself with intellegent people
-
-- -->
-
+ -->
 ###Relevant Work experience
 
 * Deployment Engineer/ PANDA at Engine Yard remotely in Buffalo, NY June 2013 - present
