@@ -7,6 +7,22 @@ Hi there! I am Amanda Quaranto: a Manufacturing Engineer turned Application Supp
 
 ![Hey!](http://howstuffworks.files.wordpress.com/2011/08/panda4.jpg)
 
+###Before we begin...
+
+I thought I'd try my hand at integrating the Stripe checkout form for myself. Feel free to checkout the results: <br /><form action="http://young-ravine-2763.herokuapp.com/charge" method="post" style="text-align:center">
+    <script
+        src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+        data-key="pk_test_REiRXJkBrkRnp8Nn7YdHN7cb" 
+        data-amount="0099"
+        data-name="HIREMEv2.0"
+        data-description="Blog Post : $0.99"
+        data-image="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/10285142_10100871048204455_9142044647718762879_o.jpg"
+        data-allow-remember-me="false">
+      </script>
+</form>	
+<br />
+
+ Everything about the integration was very positive. In order to embed the checkout form I only needed to use two docs [https://stripe.com/docs/checkout](https://stripe.com/docs/checkout) and [https://stripe.com/docs/checkout/guides/sinatra](https://stripe.com/docs/checkout/guides/sinatra). Because I was using Jekyll and Github Pages for this post, I needed a small sinatra backend to deal with the POST. I was pleasantly surprised how well written and easy to follow the guides were. The only thing I would add is a short comment about git as it is a requirement for heroku. Overall, it was a really great experience! Now, onto what you came here for:
 
 ###Background
 In November 2011, I left my manufacturing engineering position in Boston, MA and I found myself with an amazing, albeit daunting, opportunity to find my passion. My husband and I moved closer to family and I started on my quest to find a career that encompasses everything I love:

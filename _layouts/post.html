@@ -10,19 +10,6 @@ archive: false
         <span class="post-meta">
         	<a href="/index.html">Back </a> |
             <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
-
-            <form action="http://young-ravine-2763.herokuapp.com/charge" method="post">
-                A test of stripe integration: 
-                <script
-                    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-                    data-key="pk_test_REiRXJkBrkRnp8Nn7YdHN7cb" 
-                    data-amount="0099"
-                    data-name="HIREMEv2.0"
-                    data-description="Blog Post : $0.99"
-                    data-image="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/10285142_10100871048204455_9142044647718762879_o.jpg"
-                    data-allow-remember-me="false">
-                  </script>
-            </form>
        	</span>
 
         <h1 class="post-title">{{ page.title }}</h1>

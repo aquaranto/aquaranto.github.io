@@ -33,3 +33,7 @@ img.profile {
   	border-radius: 50px;
 }
 
+.stripe-button-el span {
+    padding: 0 100px !important;
+    font-size: 18px !important;
+}
