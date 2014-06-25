@@ -24,35 +24,35 @@ After several months of teaching myself to program, I started work as a junior d
 
 * **a problem solver**
 
-As a manufacturing engineer one of my primary functions was "problem solver". This included customer/supplier issues, design problems, and machine programming and maintenance.
+<!-- As a manufacturing engineer one of my primary functions was "problem solver". This included customer/supplier issues, design problems, and machine programming and maintenance.
 
 This was further improved while working as a deployment engineer. I spent most of my workday helping new customers get comfortable with the platform. This was done over live chat as well as through skype and email communication.
-
+ -->
 * **personable**
 
-In my final year at RIT, I worked on a capstone project with my entire senior class (11 people). I was selected to be the voice of my capstone group. I presented both our midterm and final presentations to faculty, including the head of the department.
+<!-- In my final year at RIT, I worked on a capstone project with my entire senior class (11 people). I was selected to be the voice of my capstone group. I presented both our midterm and final presentations to faculty, including the head of the department.
 
-At Engine Yard, I spend much of my time speaking with customers. I always do my very best to make sure the customer has everything they need to be successful.
+At Engine Yard, I spend much of my time speaking with customers. I always do my very best to make sure the customer has everything they need to be successful. -->
 
 * **a creator** 
 
-I have been spending 
+<!-- I have been spending 
 
 I have been a knitter and crocheter for 15 years. I love the feeling of accomplishment associated with the creation of something tangible. (And, yarn projects are the perfect thing to keep warm during Buffalo winters).
-
+ -->
 * **a teacher**
-
+<!-- 
 While in my second year of college I started a student chapter of the Society of Manufacturing Engineers(SME).  The group worked on many projects which included programming the hotdog robot [Version 1:Tabletop](http://www.youtube.com/watch?v=enmuwG5rOGA), [Version 2: Mobile](http://www.youtube.com/watch?v=6LXdhUK-wXk). This project was shown at the ImagineRIT festival in Rochester, NY with the hope of getting children interested in engineering.
 
 Also while in college, I was a member of Women in Technology (WIT). Several times a year we invited local girl scouts to RIT to learn about different engineering disciplines. I led the activities for mechanical engineering and material science.
 
 I also organize the local [knit and crochet](www.meetup.com/Buffalo-Knit-and-Crochet) group in Buffalo. Once a month we have a dedicated Learning Night were we teach new members the craft.
-
+ -->
 * **a student**
-
+<!-- 
 I find that I am constantly learning. I always try to surround myself with intellegent people
 
--
+- -->
 
 ###Relevant Work experience
 
@@ -69,7 +69,7 @@ I find that I am constantly learning. I always try to surround myself with intel
 
 
 ###Professional Goals
-* Improve D3/Javascript skills and 
+<!-- * Improve D3/Javascript skills and  -->
 
 #######Visit the [this page](http://aquaranto.github.io/about.html) to learn more about me and my hobbies!
 
