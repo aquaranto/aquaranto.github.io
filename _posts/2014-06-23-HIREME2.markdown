@@ -8,35 +8,37 @@ Hi there! I am Amanda Quaranto: a Manufacturing Engineer turned Application Supp
 ![Hey!](http://howstuffworks.files.wordpress.com/2011/08/panda4.jpg)
 
 
-###About my quest
+###Background
 In November 2011, I left my manufacturing engineering position in Boston, MA and I found myself with an amazing, albeit daunting, opportunity to find my passion. My husband and I moved closer to family and I started on my quest to find a career that encompasses everything I love:
 
 * deductive reasoning
-
 * problem solving
-
 * building professional relationships
-
 * teaching and getting others interested and involved  
-
 * time and project management
 
-I feel that Ruby and Rails development will allow me to apply all of these skills.
+After several months of teaching myself to program, I started work as a junior developer. I appreciated how it utilized many of the things I enjoy including problem solving and constant learning. But, I found that I was still missing the part of my previous career that I loved most, working with and helping other people.
 
-###Why am I a good fit?
+###So, why am I a good fit?
 ####I am...
 
 * **a problem solver**
 
 As a manufacturing engineer one of my primary functions was "problem solver". This included customer/supplier issues, design problems, and machine programming and maintenance.
 
+This was further improved while working as a deployment engineer. I spent most of my workday helping new customers get comfortable with the platform. This was done over live chat as well as through skype and email communication.
+
 * **personable**
 
 In my final year at RIT, I worked on a capstone project with my entire senior class (11 people). I was selected to be the voice of my capstone group. I presented both our midterm and final presentations to faculty, including the head of the department.
 
+At Engine Yard, I spend much of my time speaking with customers. I always do my very best to make sure the customer has everything they need to be successful.
+
 * **a creator** 
 
-One of my favorite hobbies is crocheting. I love the feeling of accomplishment associated with the creation of something. I know that something I made will keep someone warm.
+I have been spending 
+
+I have been a knitter and crocheter for 15 years. I love the feeling of accomplishment associated with the creation of something tangible. (And, yarn projects are the perfect thing to keep warm during Buffalo winters).
 
 * **a teacher**
 
@@ -44,15 +46,11 @@ While in my second year of college I started a student chapter of the Society of
 
 Also while in college, I was a member of Women in Technology (WIT). Several times a year we invited local girl scouts to RIT to learn about different engineering disciplines. I led the activities for mechanical engineering and material science.
 
-I recently started a [meetup group](http://www.meetup.com/Buffalo-Learning-to-Code/) to share my love of programming with the Nickel City. Currently we have 11 members, many of whom are programming for the very first time. I also started posting all of my solutions for the 'students' to [refer to](https://github.com/aquaranto/PineLTPAnswers) on github.
-
-I also regularly attend the local [knitting](http://www.meetup.com/Public-Knitters-Unite/) meetup and host the [crocheting](http://www.meetup.com/Buffalo-Crochet/) meetup.
+I also organize the local [knit and crochet](www.meetup.com/Buffalo-Knit-and-Crochet) group in Buffalo. Once a month we have a dedicated Learning Night were we teach new members the craft.
 
 * **a student**
 
-I am currently in the process of teaching myself how to program. I worked my way through Chris Pine's Learn to Program Book and I am currently working through Why's Poignant Guide to Ruby.
-
-I am also attending as many conferences and ruby meetups as possible. I love meeting all of the intelligent people and absorbing as much knowledge as I can from them.
+I find that I am constantly learning. I always try to surround myself with intellegent people
 
 -
 
@@ -62,23 +60,18 @@ I am also attending as many conferences and ruby meetups as possible. I love mee
 * Jr. Rails Developer at Academic Software Plus in Buffalo, NY Jan 2013 to June 2013
 * Intern at Academic Software Plus in Buffalo, NY Oct 2012 to Jan 2013
 
-	
+
 ###Current participation in the developer community
 
-* WNY Ruby Users Meetups
+* Lead organizer for NickelCityRuby '13,'14
+* WNYRuby and OpenHack Meetups
+* Attending Conferences - RailsConf '12,'13,'14, SteelCityRuby '12,'14, Codemash '12,13, MagicRuby '12
 
-* Giving talks locally and at conferences [MagicRuby Oct 2012](http://magic-ruby.com/)
-
-* Attending Conferences - RailsConf 2012, SteelCityRuby 2012, MagicRuby 2012, Codemash 2013, RailsConf 2013
-
-* Speaking at Un-Conferences - BarCampBuffalo 2012 [LINK](http://prezi.com/onpmy2cxyzgc/learn-to-program/)
 
 ###Professional Goals
-* ~~Talk at a national conference within 1 years~~ MagicRuby 2012!
-* Work professionally as a programmer within 2 years
-* Commit to an open source project
+* Improve D3/Javascript skills and 
 
-Visit the [*about me*](http://aquaranto.github.io/about.html) section to learn more about me and my hobbies!
+#######Visit the [this page](http://aquaranto.github.io/about.html) to learn more about me and my hobbies!
 
 
 Thank you for reading and for your consideration. I look forward to hearing from you.

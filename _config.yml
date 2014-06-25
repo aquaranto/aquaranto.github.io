@@ -1,6 +1,6 @@
 name: HIREMEv2.0
 description: 
-meta_description: ""
+meta_description: 
 
 markdown: redcarpet
 pygments: true
