@@ -27,7 +27,7 @@ I thought I'd try my hand at integrating the Stripe checkout form for myself. Fe
 </form>	
 <br />
 
- Everything about the integration was very positive. In order to embed the checkout form I only needed to use two docs [https://stripe.com/docs/checkout](https://stripe.com/docs/checkout) and [https://stripe.com/docs/checkout/guides/sinatra](https://stripe.com/docs/checkout/guides/sinatra). Because I was using Jekyll and Github Pages for this post, I needed a small sinatra backend to deal with the POST. I was pleasantly surprised how well written and easy to follow the guides were. The only thing I would add is a short comment about git as it is a requirement for heroku. Overall, it was a really great experience! Now, onto what you came here for:
+ Everything about the integration was very positive. In order to embed the checkout form I only needed to use two docs [https://stripe.com/docs/checkout](https://stripe.com/docs/checkout) and [https://stripe.com/docs/checkout/guides/sinatra](https://stripe.com/docs/checkout/guides/sinatra). Because I was using Jekyll and Github Pages for this post, I needed a small sinatra backend to deal with the POST. I was pleasantly surprised how well written and easy to follow the guides were. The only thing I would add is a short section on git as it is a requirement for heroku. Overall, it was a really great experience! Now, onto what you came here for:
 
 ###Background
 In November 2011, I left my manufacturing engineering position in Boston, MA and I found myself with an amazing, albeit daunting, opportunity to find my passion. My husband and I moved closer to family and I started on my quest to find a career that encompasses everything I love:
