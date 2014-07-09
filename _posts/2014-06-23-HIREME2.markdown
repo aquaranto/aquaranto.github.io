@@ -3,13 +3,13 @@ layout: post
 title: HIREMEv2.0
 ---
 
-Hi there! I am Amanda Quaranto: a Manufacturing Engineer turned Application Support Engineer.
+Hi there! I am Amanda Quaranto: a Manufacturing Engineer turned Jr. Dev and Support Engineer.
 
 ![Hey!](http://howstuffworks.files.wordpress.com/2011/08/panda4.jpg)
 
 ###Before we begin...
 
-I thought I'd try my hand at integrating the Stripe checkout form for myself. Feel free to try the result using the following test card number:
+I thought I'd try my hand at integrating the Stripe checkout form. Feel free to try the result using the following test card number:
 
 	4242 4242 4242 4242
 
@@ -27,7 +27,7 @@ I thought I'd try my hand at integrating the Stripe checkout form for myself. Fe
 </form>	
 <br />
 
- Everything about the integration was very positive. In order to embed the checkout form I only needed to use two docs [https://stripe.com/docs/checkout](https://stripe.com/docs/checkout) and [https://stripe.com/docs/checkout/guides/sinatra](https://stripe.com/docs/checkout/guides/sinatra). Because I was using Jekyll and Github Pages for this post, I needed a small sinatra backend to deal with the POST. I was pleasantly surprised how well written and easy to follow the guides were. The only thing I would add is a short section on git as it is a requirement for heroku. Overall, it was a really great experience! Now, onto what you came here for:
+ Everything about the integration was very positive. I used Jekyll and Github Pages for this post, so I created a small sinatra backend to deal with the POST returned from the form. The code for which can be found [here](https://github.com/aquaranto/stripe_integration). Now, onto what you came here for:
 
 ###Background
 In November 2011, I left my manufacturing engineering position in Boston, MA and I found myself with an amazing, albeit daunting, opportunity to find my passion. My husband and I moved closer to family and I started on my quest to find a career that encompasses everything I love:
@@ -38,7 +38,7 @@ In November 2011, I left my manufacturing engineering position in Boston, MA and
 * teaching and getting others interested and involved  
 * time and project management
 
-After several months of teaching myself to program, I started work as a junior developer. I appreciated how it utilized many of the things I enjoy including problem solving and constant learning. However, I found that I was still missing the part of my previous career that I loved most, working with and helping other people. I found my passion in Application Engineering and Support.
+After several months of teaching myself to program, I started work as a junior developer. I appreciated how it utilized many of the things I enjoy including problem solving and constant learning. When I started to work at Engine Yard I found that I enjoyed working with and helping other people. I found my passion in the tech community.
 
 ###Relevant Work experience
 
@@ -55,6 +55,7 @@ After several months of teaching myself to program, I started work as a junior d
 * Lead organizer for NickelCityRuby '13,'14
 * WNYRuby and OpenHack Meetups
 * Attending Conferences - RailsConf '12,'13,'14, SteelCityRuby '12,'14, Codemash '12,13, MagicRuby '12
+* CFP Reviewer for RailsConf '13
 
 ###So, why am I a good fit?
 ####I am...
