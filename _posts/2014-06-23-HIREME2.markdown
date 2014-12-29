@@ -5,9 +5,9 @@ title: HIREMEv2.0
 
 Hi there! I am Amanda Quaranto: a Manufacturing Engineer turned Jr. Dev and Support Engineer.
 
-![Hey!](http://howstuffworks.files.wordpress.com/2011/08/panda4.jpg)
+![Hey!](https://33.media.tumblr.com/tumblr_mdu1q2JAiB1rl25fao1_400.gif)
 
-###Before we begin...
+<!-- ###Before we begin...
 
 I thought I'd try my hand at integrating the Stripe checkout form. Feel free to try the result using the following test card number:
 
@@ -28,7 +28,7 @@ I thought I'd try my hand at integrating the Stripe checkout form. Feel free to 
 <br />
 
  Everything about the integration was very positive. I used Jekyll and Github Pages for this post, so I created a small sinatra backend to deal with the POST returned from the form. The code for which can be found [here](https://github.com/aquaranto/stripe_integration). Now, onto what you came here for:
-
+ -->
 ###Background
 In November 2011, I left my manufacturing engineering position in Boston, MA and I found myself with an amazing, albeit daunting, opportunity to find my passion. My husband and I moved closer to family and I started on my quest to find a career that encompasses everything I love:
 
@@ -54,7 +54,7 @@ After several months of teaching myself to program, I started work as a junior d
 
 * Lead organizer for NickelCityRuby '13,'14
 * WNYRuby and OpenHack Meetups
-* Attending Conferences - RailsConf '12,'13,'14, SteelCityRuby '12,'14, Codemash '12,13, MagicRuby '12
+* Attending Conferences - Codemash '12,'13,'15, RailsConf '12,'13,'14, SteelCityRuby '12,'14, MagicRuby '12
 * CFP Reviewer for RailsConf '13
 
 ###So, why am I a good fit?
