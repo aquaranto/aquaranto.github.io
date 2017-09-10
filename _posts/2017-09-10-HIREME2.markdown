@@ -24,11 +24,11 @@ I love managing people. Connecting with people 1:1 and helping them be the best 
 
 ### Relevant Work experience
 
-*Chief Customer Officer at **Travis CI** in Berlin, Germany | Feb 2017 - present
-*Head of Customer Success and Support at **Travis CI** remotely from Buffalo, NY | Mar 2015 - promotion in 2017
-*Deployment Engineer/ PANDA at **Engine Yard** remotely from Buffalo, NY | June 2013 - Mar 2015
-*Jr. Rails Developer at **Liaison International** in Buffalo, NY | Jan 2013 to June 2013
-*Intern at **Liaison International** in Buffalo, NY | Oct 2012 to promotion
+* Chief Customer Officer at **Travis CI** in Berlin, Germany | Feb 2017 - present
+* Head of Customer Success and Support at **Travis CI** remotely from Buffalo, NY | Mar 2015 - promotion in 2017
+* Deployment Engineer/ PANDA at **Engine Yard** remotely from Buffalo, NY | June 2013 - Mar 2015
+* Jr. Rails Developer at **Liaison International** in Buffalo, NY | Jan 2013 to June 2013
+* Intern at **Liaison International** in Buffalo, NY | Oct 2012 to promotion
 
 ### Education
 
@@ -53,6 +53,7 @@ My problem solving skills improved while working at a Deployment Engineer at Eng
 These days, I would say my alternative title is "problem solver". My job revolves around solving problems for people on my team, throughtout the organization, and for customers and I love it!
 
 * **a creator** 
+
 I am always amazed the ease at which things are created in the tech world. Entire websites can come together in minutes (with years of tweaking afterwards). It's what drew me to programming as a craft. 
 
 I've been a creator most of my life. I have knitted and crocheted for 15 years. I love the feeling of accomplishment associated with making something tangible.
