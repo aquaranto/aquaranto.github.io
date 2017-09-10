@@ -2,8 +2,8 @@ name: HIREMEv2.0
 description: 
 meta_description: 
 
-markdown: redcarpet
-pygments: true
+markdown: kramdown
+highligher: rouge
 logo: false
 paginate: 15
 
