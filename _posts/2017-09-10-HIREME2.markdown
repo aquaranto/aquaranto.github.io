@@ -5,7 +5,7 @@ title: HIREMEv2.0
 
 Hi there! I am Amanda Quaranto: a Manufacturing Engineer turned Customer Success Executive.
 
-###Background
+### Background
 In November 2011, I left my process engineering position and I found myself with an amazing and daunting, opportunity to find my passion. I started on my quest to find a career that encompasses everything I love:
 
 * deductive reasoning
@@ -22,27 +22,31 @@ For the last two years, I've grown the team from 1 to today, where we're a team 
 
 I love managing people. Connecting with people 1:1 and helping them be the best versions of themselves in and out of work. I also love growing a diverse team. A majority of my team is remote. This means we all come from different cultures and backgrounds. Our diversity makes us stronger. 
 
-###Relevant Work experience
+### Relevant Work experience
 
 * Chief Customer Officer at **Travis CI** in Berlin, Germany | Feb 2017 - present
+
 * Head of Customer Success and Support at **Travis CI** remotely from Buffalo, NY | Mar 2015 - promotion in 2017
+
 * Deployment Engineer/ PANDA at **Engine Yard** remotely from Buffalo, NY | June 2013 - Mar 2015
+
 * Jr. Rails Developer at **Liaison International** in Buffalo, NY | Jan 2013 to June 2013
+
 * Intern at **Liaison International** in Buffalo, NY | Oct 2012 to Jan 2013
 
-###Education
+### Education
 
 2010 - **Rochester Institute of Technology** - BS in Manufacturing Engineering Technology 
 
 Recently, I started to explore my options in persuing an Exectuive MBA.
 
-###Conference Talks
+### Conference Talks
 
 * RubyConf 2015, San Antonio, TX -[Nobody Expects an Inquisition! - A Programmers Guide to Asking Questions](http://confreaks.tv/videos/rubyconf2015-nobody-expects-an-inquisition-a-programmer-s-guide-to-asking-questions)
 * MagicRuby 2012, Orlando, FL - I spoke on the parallels between the manufacturing industry and the software industry. Unfortunately, the talk was not recorded. 
 
-###So, why am I a good fit?
-####I am...
+### So, why am I a good fit?
+#### I am...
 
 * **a problem solver**
 
