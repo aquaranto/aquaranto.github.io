@@ -5,11 +5,11 @@ title: About me
 
 Hi! I'm Amanda!
 
-![Me](images/aqs.jpg)
+![Me](images/aqs.jpg | width=100)
 
 ##### Would you like to HIREME? Let's talk!
 * Email: aqschulte (at) gmail.com
-* Linkedin: [amandaquaranto](www.linkedin.com/in/amandaquaranto/)
+* Linkedin: [amandaqschulte](https://www.linkedin.com/in/amandaqschulte/)
 * Github: [@aquaranto](https://github.com/aquaranto)
 
 ##### Now for the fun, often nerdy, stuff

@@ -1,4 +1,4 @@
-name: HIREMEv2.0
+name: HIREME
 description: 
 meta_description: 
 
@@ -9,5 +9,5 @@ paginate: 15
 
 # Details for the RSS feed generator
 url:            'http://aquaranto.github.io/'
-author:         'Amanda Quaranto'
+author:         'Amanda Quaranto-Schulte'
 
