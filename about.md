@@ -5,12 +5,10 @@ title: About me
 
 Hi! I'm Amanda!
 
-![Me](images/me.jpg)
+![Me](images/aqs.jpg)
 
 ##### Would you like to HIREME? Let's talk!
-* Email: amanda (at) quaran.to
-* Skype: aquaranto
-* Twitter: [@aquaranto](https://twitter.com/aquaranto)
+* Email: aqschulte (at) gmail.com
 * Linkedin: [amandaquaranto](www.linkedin.com/in/amandaquaranto/)
 * Github: [@aquaranto](https://github.com/aquaranto)
 
@@ -21,8 +19,8 @@ Hi! I'm Amanda!
 
 * Crafting - Everything and anything. I've been a knitter and crocheter for 15 years and yarn work will always be a passion. Do you have a ravelry account? Feel free to look at my [past projects](http://www.ravelry.com/projects/aquaranto/).
 
-* Reading - For business books, one that I always recommend is [Farm don't Hunt](http://farmdonthunt.com/) by Guy Nirpaz. 
-For fiction, I'm slowly working my way through the unabridged version of [The Stand](https://www.audible.com/pd/Fiction/The-Stand-Audiobook/B0077DEH7A) by Stephen King - which adds up to a 48 HOUR audio book. 
+* Reading - For business books, I always recommend people read [Drop the Pink Elephant](https://www.goodreads.com/en/book/show/606239.Drop_the_Pink_Elephant) by Bill McFarlan and [Culture Map](https://erinmeyer.com/books/the-culture-map/) by Erin Meyer. 
+For fiction, I nearly always one or two (or five) books in progress at any one time thanks to the local library! My most recent read was [The Guest List](https://www.goodreads.com/book/show/51933429-the-guest-list) by Lisa Foley (perfect for fans of Agatha Christie).
 
 
 
