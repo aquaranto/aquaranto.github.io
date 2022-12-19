@@ -1,0 +1,89 @@
+---
+layout: post
+title: HIREMEv3.0
+---
+
+Hi there! I am Amanda Quaranto-Schulte: an Engineer turned Customer Support Leader.
+
+### Background
+In November 2011, I left my process engineering position and I found myself with an amazing and daunting, opportunity to find my passion. I started on my quest to find a career that encompasses everything I love:
+
+* deductive reasoning
+* problem solving
+* building professional relationships
+* teaching and getting others interested and involved  
+* time and project management
+
+After several months of teaching myself to program, I started work as a junior developer. I appreciated how it utilized many of the things I enjoy including problem solving and constant learning. When I started to work at Engine Yard I found that I enjoyed working with and helping other people. I found my passion in the tech community.
+
+Working at Engine Yard grew and honed my customer success skills. After a couple of years, I accepted a position to start and grow a support team at Travis CI. 
+
+In my time there, I grew the team from 1 to a team of 17. In the beginning, we only did support. And, towards the end of my time there, we added more success-focused roles - Account Management, Customer Success Management, and Marketing. These positions were brand new to the company. We hired and on-boarded them all from scratch.
+
+After leaving Travis CI, I joined the amazing crew at Peach (discoverpeach.com), a fashion startup based in Waltham, MA. In my time at Peach, I managed both the support team & the fulfillment crew. The support work we did was a bit different because a small subset of our client-base worked for us as independent, sales people. On the fulfillment side, managing a warehouse came with a multitude of challenges (that I'd love to have the chance to bore you with!). This work culminated in the company moving to a 3rd party logistics company as we had outgrown our warehousing space! I played a pivotal role in the transition - managing the logistics of packing, labeling, and shipping of over 100,000 pieces! 
+
+I love managing people. Connecting with people 1:1 and helping them be the best versions of themselves in and out of work. I also love growing a diverse team. A majority of my team at Travis was remote. This meant we all came from different cultures and backgrounds. Our diversity made us stronger. 
+
+### Relevant Work experience
+
+Cofounder at **Grove Partners** in Watertown, MA | May 2022 to present
+Head of Support and Fulfillment at **Peach Innovations** in Waltham, MA | Oct 2018 to May 2021
+Chief Customer Officer at **Travis CI** in Berlin, Germany | Feb 2017 - Nov 2017
+Head of Customer Success and Support at **Travis CI** remotely from Buffalo, NY | Mar 2015 - promotion in 2017
+Deployment Engineer/ PANDA at **Engine Yard** remotely from Buffalo, NY | June 2013 - Mar 2015
+Jr. Rails Developer at **Liaison International** in Buffalo, NY | Jan 2013 to June 2013
+Intern at **Liaison International** in Buffalo, NY | Oct 2012 to promotion
+
+### Education
+
+2022 - **Brandeis University** - MBA concentrating in Marketing and Data Analytics
+2010 - **Rochester Institute of Technology** - BS in Manufacturing Engineering Technology 
+
+Recently, I started to explore my options in persuing a masters or MBA.
+
+### Conference Talks
+
+* RubyConf 2015, San Antonio, TX -[Nobody Expects an Inquisition! - A Programmers Guide to Asking Questions](http://confreaks.tv/videos/rubyconf2015-nobody-expects-an-inquisition-a-programmer-s-guide-to-asking-questions)
+* MagicRuby 2012, Orlando, FL - I spoke on the parallels between the manufacturing industry and the software industry. Unfortunately, the talk was not recorded. 
+
+### So, why am I a good fit?
+#### I am...
+
+* **a problem solver**
+
+As a manufacturing engineer one of my primary functions was "problem solver". This included customer/supplier issues, design problems, and machine programming and maintenance.
+
+My problem solving skills improved while working at a Deployment Engineer at Engine Yard and in my early days at Travis CI when working in support.
+
+These days, I would say my alternative title is "problem solver". My job revolves around solving problems for people on my team, throughtout the organization, and for customers and I love it!
+
+* **a creator** 
+
+I am always amazed the ease at which things are created in the tech world. Entire websites can come together in minutes (with years of tweaking afterwards). It's what drew me to programming as a craft. 
+
+I've been a creator most of my life. I have knitted and crocheted for 15 years. I love the feeling of accomplishment associated with making something tangible.
+
+I have also been working on making clothes for my two boys. I recently had a 1-week vacation and made a new piece for them every day. 
+
+* **a teacher**
+
+Being a teacher doesn't always mean giving lessons to a captive group. It is also working to make others successful in the work they do. 
+
+As a manager I spend much of my time as a teacher. Some days it's reviewing an email to an upset customer and other days it's working with the team to set our OKRs for the quarter. 
+
+While in college, I was a member of Women in Technology (WIT). Several times a year we invited local girl scouts to RIT to learn about different engineering disciplines. I led the activities for mechanical engineering and material science.
+
+When I lived in Buffalo, I organized the local [knit and crochet](www.meetup.com/Buffalo-Knit-and-Crochet) group. While we meet weekly, once a month we have a dedicated Learning Night where we teach new members.
+
+* **a student**
+
+Being a good student is a difficult skill to master. And, being a good Mananger requires that you're always learning. 
+
+I've never worked as an Account Manager or in Marketing. I trust that the people that I hire have that knowedge. So, there is always something they can teach me. I make a point to always be learning.
+
+
+### Would you like to learn more about me? 
+Visit [this page](http://aquaranto.github.io/about.html) for information on how to contact me and about my hobbies!
+
+
+*Thank you for reading and for your consideration. I look forward to hearing from you.*
