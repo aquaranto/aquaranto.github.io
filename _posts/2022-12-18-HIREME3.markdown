@@ -36,8 +36,8 @@ Intern at **Liaison International** in Buffalo, NY | Oct 2012 to promotion
 
 ### Education
 
-2022 - **Brandeis University** - MBA concentrating in Marketing and Data Analytics
-2010 - **Rochester Institute of Technology** - BS in Manufacturing Engineering Technology 
+2022 | **Brandeis University** | MBA concentrating in Marketing and Data Analytics
+2010 | **Rochester Institute of Technology** | BS in Manufacturing Engineering Technology 
 
 ### Conference Talks
 
@@ -83,7 +83,7 @@ I've never worked as an Account Manager or in Marketing. I trust that the people
 
 
 ### Would you like to learn more about me? 
-Visit [this page](http://aquaranto.github.io/about.html) for information on how to contact me and about my hobbies! *Please note, my About page has a photo of me. <u>If you're conducting a bias-limiting recruiting process, please use only this page and my resume for qualifications.</u>*
+Visit [this page](http://aquaranto.github.io/about.html) for information on how to contact me and about my hobbies! (*Please note, my About page has a photo of me. <u>If you're conducting a bias-limiting recruiting process, please use only this page and my resume for qualifications.</u>*)
 
 Curious about my story? Feel free to checkout previous versions of this website [here](https://aquaranto.github.io/).
 
