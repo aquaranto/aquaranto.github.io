@@ -36,7 +36,7 @@ Intern at **Liaison International** in Buffalo, NY | Oct 2012 to promotion
 
 ### Education
 
-2022&nbsp   | **Brandeis University** - MBA concentrating in Marketing and Data Analytics
+<pre>2022   | **Brandeis University** - MBA concentrating in Marketing and Data Analytics</pre>
 2010&nbsp   | **Rochester Institute of Technology** - BS in Manufacturing Engineering Technology 
 
 ### Conference Talks
