@@ -5,12 +5,12 @@ title: HIREMEv3.0
 
 Hi there! I am Amanda Quaranto-Schulte: an Engineer turned Customer Support Leader.
 
-### Feel free to skip ahead - Spoilers are totally allowed here!
-* [Background](Background)
-* [Work Experience](Relevant-Work-experience)
-* [Education](Education)
-* [Conference Talks](Conference-Talks)
-* [Why I'm a good fit](I-am...)
+**Feel free to skip ahead - Spoilers are totally allowed here!**
+* [Background](#Background)
+* [Work Experience](#Relevant-Work-experience)
+* [Education](#Education)
+* [Conference Talks](#Conference-Talks)
+* [Why I'm a good fit](#I-am...)
 
 
 ### Background
