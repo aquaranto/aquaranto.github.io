@@ -5,7 +5,7 @@ title: About Me
 
 Hi! I'm Amanda!
 
-![Me](images/aqs.jpg width=100)
+![Me](images/aqs.jpg)
 
 ##### Would you like to HIREME? Let's talk!
 * Email: aqschulte (at) gmail.com
