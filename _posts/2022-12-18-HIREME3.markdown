@@ -39,8 +39,6 @@ Intern at **Liaison International** in Buffalo, NY | Oct 2012 to promotion
 2022 - **Brandeis University** - MBA concentrating in Marketing and Data Analytics
 2010 - **Rochester Institute of Technology** - BS in Manufacturing Engineering Technology 
 
-Recently, I started to explore my options in persuing a masters or MBA.
-
 ### Conference Talks
 
 * RubyConf 2015, San Antonio, TX -[Nobody Expects an Inquisition! - A Programmers Guide to Asking Questions](http://confreaks.tv/videos/rubyconf2015-nobody-expects-an-inquisition-a-programmer-s-guide-to-asking-questions)
